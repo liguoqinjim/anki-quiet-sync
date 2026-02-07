@@ -1,5 +1,5 @@
 # 
-安装链接： https://ankiweb.net/shared/info/254869288
+[Quiet Sync Errors (macOS) - AnkiWeb](https://ankiweb.net/shared/info/254869288)
 
 ## 打包
 ```bash
